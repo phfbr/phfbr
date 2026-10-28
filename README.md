@@ -88,11 +88,12 @@ Projeto de análise de desempenho individual e coletivo com dados de partidas e 
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📬 Entre em contato
 
-💼 **LinkedIn:** [linkedin.com/in/phfbr](https://www.linkedin.com/in/phfbr/)  
-🌐 **Portfólio:** [phfbr.github.io](https://phfbr.github.io/)  
-📧 **E-mail:** [pedrohenriquefbr@gmail.com](mailto:pedrohenriquefbr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phfbr/)
+[![Email](https://img.shields.io/badge/EMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquefbr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-444444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phfbr)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://phfbr.github.io/)
 
 ---
 
